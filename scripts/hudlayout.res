@@ -567,11 +567,11 @@
 		"enabled"									"1"
 		"MinimumWidth"								"22"
 		"MaximumWidth"								"22"
-		"StartRadius"								"21"
-		"EndRadius"									"21"
+		"StartRadius"								"20"
+		"EndRadius"									"20"
 		"MinimumHeight"								"10"
 		"MaximumHeight"								"10"
-		"MinimumTime"								"0.75"
+		"MinimumTime"								"0.85"
 	}
 
 	HudCommentary
