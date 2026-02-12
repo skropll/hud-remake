@@ -1,2 +1,2 @@
 # hud-remake
-![](displaydisplay.jpg)
+![](display.jpg)
