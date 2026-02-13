@@ -101,7 +101,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
+		"font"			"Catamaran15"
 		
 		if_match
 		{
@@ -231,7 +231,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"roboto10"
+		"font"			"Catamaran15"
 		
 		if_match
 		{

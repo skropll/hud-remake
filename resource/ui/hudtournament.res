@@ -1033,7 +1033,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"robotobold20"
+		"font"			"Catamaran15"
 		"xpos"			"230"
 		"ypos"			"r55"
 		"wide"			"40"
@@ -1052,8 +1052,8 @@
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
-			"fgcolor"		"TanLight"
-			"font"			"robotobold20"
+			"fgcolor"		"White"
+			"font"			"Catamaran15"
 		}
 
 		if_readymode
@@ -1067,7 +1067,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"robotobold20"
+		"font"			"Catamaran15"
 		"xpos"			"231"
 		"ypos"			"r54"
 		"wide"			"40"
@@ -1087,7 +1087,7 @@
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.08"
-			"font"			"robotobold20"
+			"font"			"Catamaran15"
 		}
 
 		if_readymode
