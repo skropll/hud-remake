@@ -70,10 +70,10 @@
 		"zpos"			"5"
 		"wide"			"56"
 		"tall"			"56"
-		"visible"		"1"
+		"visible"		"0"
 		"alpha"			"255"
 		"image"			"replay/thumbnails/disguisekitgray"
-		"enabled"		"1"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 	}
 	"Armor"
