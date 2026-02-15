@@ -110,7 +110,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
 		"font"			"Catamaran10"
-		"xpos"			"8"
+		"xpos"			"10"
 		"ypos"			"-6"
 		"zpos"			"1"
 		"wide"			"640"
